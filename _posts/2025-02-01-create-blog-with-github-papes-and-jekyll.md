@@ -1,5 +1,5 @@
 ---
-title: Create personal blog with Github Papes and Jekyll with Chirpy theme
+title: Create personal blog with Github Pages and Jekyll with Chirpy theme
 description: >-
   Learn how to install, configure, and deploy the Chirpy Jekyll theme for your blog. This step-by-step guide covers Dev Containers, native setup, customization options, and deployment methods like GitHub Actions.
 author: minhpt
@@ -8,7 +8,7 @@ categories: [Blogging, Tutorial]
 tags: [blog, tutorial, github, jekyll, chirpy]
 ---
 
-## Create personal blog with Github Papes and Jekyll with Chirpy theme
+## Create personal blog with Github Pages and Jekyll with Chirpy theme
 
 This guide will walk you through setting up and using the Chirpy Jekyll theme for your website.
 
