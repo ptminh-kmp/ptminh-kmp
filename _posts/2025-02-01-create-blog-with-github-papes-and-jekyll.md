@@ -4,8 +4,8 @@ description: >-
   Learn how to install, configure, and deploy the Chirpy Jekyll theme for your blog. This step-by-step guide covers Dev Containers, native setup, customization options, and deployment methods like GitHub Actions.
 author: minhpt
 date: 2025-02-03 00:00:00 +0700
-categories: [Blogging, Tutorial]
-tags: [blog, tutorial, github, jekyll, chirpy]
+categories: [Self-hosted, Blogging]
+tags: [blog, tutorial, github, jekyll, chirpy, self-hosted]
 ---
 
 ## Create personal blog with Github Pages and Jekyll with Chirpy theme
@@ -87,11 +87,11 @@ bundle exec jekyll s
 bundle lock --add-platform x86_64-linux
 ```
 
-    * **Configure GitHub Pages:**
-        * In your GitHub repository, go to **Settings** -> **Pages**.
-        * In the **Source** section, select **"GitHub Actions"** from the dropdown menu.
+* **Configure GitHub Pages:**
+    * In your GitHub repository, go to **Settings** -> **Pages**.
+    * In the **Source** section, select **"GitHub Actions"** from the dropdown menu.
 
-    * **Deploy:** Push your changes to GitHub. The GitHub Actions workflow will automatically build and deploy your site.
+* **Deploy:** Push your changes to GitHub. The GitHub Actions workflow will automatically build and deploy your site.
 
 * **Manual Deployment:**
 
