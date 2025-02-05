@@ -104,6 +104,10 @@ JEKYLL_ENV=production bundle exec jekyll b
 > **Upload Files:** The generated site files will be located in the `_site` folder. Upload the contents of this folder to your web server (e.g., using FTP, SFTP, or rsync).
 {: .prompt-info }
 
+**Video**
+
+{% include embed/youtube.html id='hKMF9LXlO7w' %}
+
 **Key Considerations**
 
 * **Project Sites:** If you are using a GitHub Project site or a custom domain, you may need to adjust the `baseurl` in `_config.yml`. For example, if your project name is "my-blog," set `baseurl: "/my-blog"`.
